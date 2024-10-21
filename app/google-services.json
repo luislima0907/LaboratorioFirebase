@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720722468273",
+    "project_id": "proyectolaboratorio-98424",
+    "storage_bucket": "proyectolaboratorio-98424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720722468273:android:50c52c0ed4dd9b7798f190",
+        "android_client_info": {
+          "package_name": "gt.edu.miumg.luis.laboratoriofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKh0PaU4w8wLBtN37UeBKSLqsprWree3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
